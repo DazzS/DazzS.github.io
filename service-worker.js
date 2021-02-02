@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6160880306bd09bb47500684149fe6de.js"
+  "/precache-manifest.30c08475469dbc3ff6de66914fa26027.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mashprom"});
