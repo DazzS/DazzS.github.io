@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1015" height="15" viewBox="0 0 1015 15">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-separator_line);
+      }
+
+      .cls-2 {
+        fill: #161612;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-separator_line">
+      <rect width="1015" height="15"/>
+    </clipPath>
+  </defs>
+  <g id="separator_line" class="cls-1">
+    <rect class="cls-3" width="1015" height="15"/>
+    <rect id="Прямоугольник_39" data-name="Прямоугольник 39" class="cls-2" width="1015" height="15"/>
+  </g>
+</svg>
